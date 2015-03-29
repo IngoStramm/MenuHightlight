@@ -16,3 +16,6 @@ ul > li.active > a
 
 ##Classes CSS
 - ```.home``` é colocado no(s) item(s) da lista que representa o link para a homepage (usado em projetos que não possuem um redirecionamento de url amigável)
+- ```.ancestor``` colocado nos itens da lista que possuem submenu
+- ```.produto``` colocado no no item da lista com o link para a listagem de produtos.
+- ```.active``` classe adicionada no elemento ```<li>``` referente ao item do menu atual.
